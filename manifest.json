@@ -1,11 +1,46 @@
 [
   {"name": "Burnice", "url": "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Burnice.lua"},
-  {"name": "Teto", "url": "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto.lua"},
   {"name": "Cat", "url": "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Cat.lua"},
-{"name": "Mari", "url": "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Mari.lua"},
+  {"name": "Mari", "url": "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Mari.lua"},
   {"name": "Hug", "url": "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Hug.lua"},
   {"name": "OMORI", "url": "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/OMORI.lua"},
   {"name": "Pancakes", "url": "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Pancakes.lua"},
-{"name": "Pat", "url": "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Pat.lua"},
-  {"name": "Widepancakes", "url": "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Widepancakes.lua"}
+  {"name": "Pat", "url": "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Pat.lua"},
+  {"name": "Widepancakes", "url": "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Widepancakes.lua"},
+  {
+    "name": "Teto",
+    "type": "video",
+    "chunks": [
+      "Teto_001", "Teto_002", "Teto_003", "Teto_004", "Teto_005",
+      "Teto_006", "Teto_007", "Teto_008", "Teto_009", "Teto_010",
+      "Teto_011", "Teto_012", "Teto_013", "Teto_014", "Teto_015",
+      "Teto_016", "Teto_017", "Teto_018", "Teto_019", "Teto_020",
+      "Teto_021", "Teto_022", "Teto_023"
+    ],
+    "urls": [
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_001.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_002.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_003.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_004.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_005.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_006.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_007.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_008.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_009.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_010.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_011.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_012.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_013.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_014.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_015.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_016.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_017.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_018.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_019.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_020.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_021.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_022.lua",
+      "https://raw.githubusercontent.com/SansationalCat21/Lua-s-Images/refs/heads/main/images/Teto_023.lua"
+    ]
+  }
 ]
